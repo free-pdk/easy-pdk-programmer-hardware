@@ -14,9 +14,8 @@ adapters are built from 2 pcbs:
   - a top pcb, which routes the pins through strait and allows to provide
     socket headers in the necessary spacing for the actual programming socket
 
-<img src="adapter-bottom.jpg" alt="Bottom pcb of the adapter" width="300">
-<img src="adapter-top.jpg" alt="Top pcb of the adapter and programming socket" width="300">
-    
+| <img src="adapter-bottom.jpg" alt="Bottom pcb of the adapter" width="450"> | <img src="adapter-top.jpg" alt="Top pcb of the adapter and programming socket" width="450"> |
+
 ### PMS-Series SOT23-6
 
 This adapter is primarily designed for the PMS150C-U06, but should also work for
@@ -45,4 +44,4 @@ create an adapter for pinouts which don't have their own pcb adapter yet.
 The gerber directory contains a zipped set of Gerber files for a small panel with
 all mentioned adapters and the programmer itself.
 
-<img src="gerber/render-top.png" alt="Adapter panel" width="300">
+<img src="gerber/panel-descriptions.png" alt="Adapter panel" width="600">
