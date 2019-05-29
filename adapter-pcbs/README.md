@@ -14,7 +14,7 @@ adapters are built from 2 pcbs:
   - a top pcb, which routes the pins through strait and allows to provide
     socket headers in the necessary spacing for the actual programming socket
 
-| <img src="adapter-bottom.jpg" alt="Bottom pcb of the adapter" width="450"> | <img src="adapter-top.jpg" alt="Top pcb of the adapter and programming socket" width="450"> |
+| <img src="adapter-bottom.jpg" alt="Bottom pcb of the adapter" width="350"> | <img src="adapter-top.jpg" alt="Top pcb of the adapter and programming socket" width="350"> |
 
 ### PMS-Series SOT23-6
 
