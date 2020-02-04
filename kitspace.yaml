@@ -1,0 +1,2 @@
+bom: pcb/easypdkprog_pcb12_bom.csv
+gerbers: pcb/Gerber_EASYPDKPROG_PCB12_NoSilk/
