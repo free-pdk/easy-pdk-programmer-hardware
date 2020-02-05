@@ -18,8 +18,7 @@ PCB, component placement and assembly pictures:
 
 ![PCB bottom](pcb/easypdkprog_pcb12_bottom.png?raw=true "PCB bottom")
 
-
-![Component placement](pcb/easypdkprog_pcb12_component_placement.pdf?raw=true "Component placement")
+![Component placement](pcb/easypdkprog_pcb12_component_placement.pdf "Component placement")
 
 ![PCB assembled](pcb/easypdkprog_pcb12_assembled.jpg?raw=true "PCB assembled")
 
