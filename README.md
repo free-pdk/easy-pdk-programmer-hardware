@@ -22,3 +22,4 @@ PCB, component placement and assembly pictures:
 
 ![PCB assembled](pcb/easypdkprog_pcb12_assembled.jpg?raw=true "PCB assembled")
 
+After assembling the PCB, you have to install the firmware on the MCU. The firmware can be found in the software repository: https://github.com/free-pdk/easy-pdk-programmer-software/tree/master/Firmware
