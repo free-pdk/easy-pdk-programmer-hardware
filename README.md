@@ -14,6 +14,8 @@ https://kitspace.org/boards/github.com/free-pdk/easy-pdk-programmer-hardware/
 
 PCB, component placement and assembly pictures:
 
+![==> click here for interactive component placement bom <==](pcb/easypdkprog_pcb12.html?raw=true "interactive component placement bom")
+
 ![PCB top](pcb/easypdkprog_pcb12_top.png?raw=true "PCB top")
 
 ![PCB bottom](pcb/easypdkprog_pcb12_bottom.png?raw=true "PCB bottom")
