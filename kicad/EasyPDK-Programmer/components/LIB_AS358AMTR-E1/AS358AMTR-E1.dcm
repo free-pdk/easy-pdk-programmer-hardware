@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AS358AMTR-E1
+D Dual  independent,  high  gain  and internally  frequency  compensated  operational  amplifiers.
+K power opamp dual
+F https://datasheet.lcsc.com/szlcsc/Diodes-Incorporated-AS358AMTR-E1_C141322.pdf
+$ENDCMP
+#
+#End Doc Library

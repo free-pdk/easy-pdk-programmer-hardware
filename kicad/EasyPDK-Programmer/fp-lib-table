@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name RT9193-33GB)(type Legacy)(uri ${KIPRJMOD}/components/LIB_RT9193-33GB/RT9193-33GB.mod)(options "")(descr ""))
+  (lib (name AS358AMTR-E1)(type Legacy)(uri ${KIPRJMOD}/components/LIB_AS358AMTR-E1/AS358AMTR-E1.mod)(options "")(descr ""))
+  (lib (name MT3608)(type Legacy)(uri ${KIPRJMOD}/components/LIB_MT3608/MT3608.mod)(options "")(descr ""))
+)

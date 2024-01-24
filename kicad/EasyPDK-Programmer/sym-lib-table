@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name Schematic_2020-05-13_22-49-19.schdoc-cache)(type Legacy)(uri /home/thomasesr/git/easy-pdk-programmer-hardware/easyeda/altium/altium2kicad/Schematic_2020-05-13_22-49-19.schdoc-cache.lib)(options "")(descr ""))
+  (lib (name RT9193-33GB)(type Legacy)(uri ${KIPRJMOD}/components/LIB_RT9193-33GB/RT9193-33GB.lib)(options "")(descr ""))
+  (lib (name AS358AMTR-E1)(type Legacy)(uri ${KIPRJMOD}/components/LIB_AS358AMTR-E1/AS358AMTR-E1.lib)(options "")(descr ""))
+  (lib (name MT3608)(type Legacy)(uri ${KIPRJMOD}/components/LIB_MT3608/MT3608.lib)(options "")(descr ""))
+)
